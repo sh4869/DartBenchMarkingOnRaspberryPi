@@ -1,0 +1,9 @@
+name: BenchMark
+author: sh4869 <nobuk4869@gmail.com>: # name <email>
+homepage: http://github.com/sh4869/DartBenchMarkingOnRaspberryPi: # https://github.com/user/repo
+version: 0.1.0
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+description: Dart Benchmark test on Raspberry Pi
+dependencies:
+  benchmark_harness: '>=1.0.4 <2.0.0'
